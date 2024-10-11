@@ -18,7 +18,7 @@
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "decorate-all": "^1.2.1",
-    "express": "^4.19.2",
+    "express": "^4.21.1",
     "express-prom-bundle": "^7.0.0",
     "inversify": "^6.0.2",
     "inversify-binding-decorators": "^4.0.0",
@@ -32,7 +32,7 @@
     "pino-http": "^10.1.0",
     "prom-client": "^15.1.2",
     "reflect-metadata": "^0.2.2",
-    "socket.io": "^4.7.5",
+    "socket.io": "^4.8.0",
     "swagger-ui-express": "^5.0.0",
     "tsoa": "^6.2.1",
     "typeorm": "^0.3.20"
